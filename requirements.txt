@@ -1,0 +1,13 @@
+langchain
+streamlit
+clarifai-grpc
+streamlit-chat
+toml
+torch
+tqdm
+InstructorEmbedding
+sentence_transformers
+transformers
+clarifai
+faiss-cpu
+python-dotenv
