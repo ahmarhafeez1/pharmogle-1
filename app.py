@@ -26,7 +26,7 @@ load_dotenv()
 
 # secrets = toml.load(".streamlit\secrets.toml")["secrets"]
 
-PAT = os.getenv("PAT"]
+PAT = os.getenv("PAT")
 Llama_USER_ID = os.getenv("Llama_USER_ID")
 Llama_APP_ID = os.getenv("Llama_APP_ID")
 Llama_MODEL_ID = os.getenv("Llama_MODEL_ID")
